@@ -1,0 +1,10 @@
+# macOS metadata
+.DS_Store
+
+# IDE project settings
+.idea/
+
+# Example: ignore build or cache folders
+node_modules/
+dist/
+__pycache__/q
