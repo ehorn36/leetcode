@@ -1,5 +1,6 @@
-from nis import match
-
+"""
+https://leetcode.com/problems/backspace-string-compare/
+"""
 
 class Solution:
     def backspaceCompare(self, s: str, t: str) -> bool:

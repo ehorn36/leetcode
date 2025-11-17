@@ -1,3 +1,7 @@
+"""
+https://leetcode.com/problems/binary-search/description/
+"""
+
 class Solution(object):
     def search(self, nums, target):
         """
