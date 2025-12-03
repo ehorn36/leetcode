@@ -2,6 +2,7 @@
 https://leetcode.com/problems/two-sum/
 """
 
+
 class Solution:
     def twoSum(self, nums: list, target: int):
         """
@@ -23,19 +24,16 @@ class Solution:
             index2 = index1 + 1
 
 
-
-
 # array = [-1, -2, -3, -4, -5]
 # target_num = -8
 
 # array = [2,2,11,7]
 # target_num = 9
 #
-array = [3,3]
-target_num = 6
+# array = [3, 3]
+# target_num = 6
 
-
-array = [-1,-2,-3,-4,-5]
+array = [-1, -2, -3, -4, -5]
 target_num = -8
 
 output = Solution().twoSum(array, target_num)
