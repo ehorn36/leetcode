@@ -8,3 +8,9 @@
 node_modules/
 dist/
 __pycache__/q
+
+# Select files
+other/count_of_parantheses.py
+other/get_one_bits.py
+other/min_batch.py
+other/romanizer.py
